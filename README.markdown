@@ -2,6 +2,8 @@
 
 This Arduino-based project uses an **HC-SR04 ultrasonic sensor** to measure distances and indicate proximity through LEDs. The current distance is displayed on a **16x2 I2C LCD**, including custom Polish characters like **ł, ś, ć** for accurate language representation.
 
+![Demo GIF](screenshots/1.gif)
+
 ---
 
 ## 🧰 Required Components
@@ -175,7 +177,16 @@ void loop() {
 
 ## 📸 Screenshots
 
-📷 *Coming soon!*  
+To include a demonstration:
+
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+</p>
 
 ---
 
